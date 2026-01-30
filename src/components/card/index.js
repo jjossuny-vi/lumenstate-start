@@ -3,3 +3,6 @@ export { CustomCard } from './CustomCard.jsx';
 
 // Style variant wrapper
 export { CardContainer } from './CardContainer.jsx';
+
+// Product card (제품 카드)
+export { ProductCard } from './ProductCard.jsx';
