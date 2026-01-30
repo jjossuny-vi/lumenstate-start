@@ -1,4 +1,4 @@
-import { productAssets } from '../assets/product';
+ㅡimport { productAssets } from '../assets/product';
 
 // Product Options (for product detail page)
 export const PRODUCT_OPTIONS = {
