@@ -1,0 +1,1 @@
+export { FilteredProductGrid } from './FilteredProductGrid';

@@ -1,8 +1,8 @@
 import Box from '@mui/material/Box';
-import { ProductGrid } from '../../../components/gallery/ProductGrid';
+import { ProductGrid } from '../../../components/grid/ProductGrid';
 
 export default {
-  title: 'Custom Component/Gallery/ProductGrid',
+  title: 'Custom Component/Grid/ProductGrid',
   component: ProductGrid,
   tags: ['autodocs'],
   parameters: {
